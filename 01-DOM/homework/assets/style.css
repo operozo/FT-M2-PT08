@@ -75,6 +75,7 @@ body {
   justify-content: center;
   flex-wrap: wrap;
   cursor: pointer;
+  background-color: #F00;
 }
 
 .toDoShell {
@@ -99,5 +100,6 @@ body {
 }
 
 .completeCheckbox {
+  background-color: #F00;
   transform: scale(1.8);
 }
